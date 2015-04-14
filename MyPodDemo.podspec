@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "MyPodDemo"
   s.version      = "0.0.1"
-  s.summary      = “我的第一个pod库。A short description of MyPodDemo."
+  s.summary      = “My first Pod Lib.20150414A short description of MyPodDemo."
 
   s.description  = <<-DESC
                    A longer description of MyPodDemo in Markdown format.
