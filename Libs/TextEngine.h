@@ -17,5 +17,12 @@
  */
 - (void) myLog:(NSString *)text;
 
+/**
+ *  MyLog
+ *
+ *  @param text log content
+ */
+- (void) myLog2:(NSString *)text;
+
 
 @end

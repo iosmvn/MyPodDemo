@@ -19,5 +19,8 @@
     NSLog(@"TextEngine == %@", text);
 }
 
+- (void) myLog2:(NSString *)text {
+    NSLog(@"TextEngine == %@", text);
+}
 
 @end
